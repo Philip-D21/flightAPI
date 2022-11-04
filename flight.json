@@ -1,0 +1,38 @@
+  [
+{
+    "id" : 1,
+    "title": "flight to canada",
+    "time":  "1pm",
+    "price": 16000,
+    "date": "25-06-2022"
+},
+{
+    "id" : 2,
+    "title": "flight to america",
+    "time":  "3pm",
+    "price": 26000,
+    "date": "26-06-2022"
+},
+{
+    "id" : 3,
+    "title": "flight to kenya",
+    "time":  "4pm",
+    "price": 36000,
+    "date": "27-06-2022"
+
+},
+{
+    "id" : 4,
+    "title": "flight to Rwanda",
+    "time":  "5pm",
+    "price": 46000,
+    "date": "29-06-2022"
+},
+
+{
+    "id" : 5,
+    "title": "flight to london",
+    "time":  "6pm",
+    "price": 56000,
+    "date": "30-06-2022"
+}]
